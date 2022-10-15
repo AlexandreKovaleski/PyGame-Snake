@@ -1,2 +1,2 @@
 # SnakeGame
-Aplicação desenvolvida para a disciplina de fundamentos de programação.
+Aplicação desenvolvida na disciplina de fundamentos de programação para o professor Marcos Roberto dos Santos
