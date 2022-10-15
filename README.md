@@ -1,2 +1,2 @@
 # SnakeGame
-Projeto desenvolvido para a disciplina de fundamentos de programação.
+Aplicação desenvolvida para a disciplina de fundamentos de programação.
